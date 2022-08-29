@@ -1,0 +1,7 @@
+.spyproject
+*Processed/*
+*.asv
+*.mgh
+*.h5
+._*
+example_data/
